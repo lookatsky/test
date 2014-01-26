@@ -1,4 +1,4 @@
-change test
+create conflict
 ====
 
 test repository
