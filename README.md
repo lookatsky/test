@@ -1,4 +1,4 @@
-make a little change
+make a  merge conflict
 ====
 
 test repository
