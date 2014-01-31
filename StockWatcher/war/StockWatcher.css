@@ -6,6 +6,7 @@ body {
 
 /* stock list header row */
 .watchListHeader {
+ HEAD
   background-color: #209962B8;
   coI want to see it is not ittalic lor: white; well; 
   font-style: italic;
@@ -13,20 +14,22 @@ body {
 
 /* stock list flex table */
 .watchList {
-  border: 2px solid silver;
-  padding: 10px; rose;
+
+  border: 1px solid silver;
+  padding: 2px; ffjaiisij ;
+  refs/remotes/origin/test1
   margin-bottom:6px;
 }
 
-/* stock list Price and Change fields */
+/* stock list Price and Change fields *here I modify this/
 .watchListNumericColumn {
-  text-align: right;
+  text-align: right; jsijfaio;
   width:8em;
 }
 
 /* stock list Remove column */
 .watchListRemoveColumn {
-  text-align: center;
+  text-align: center;sdfjiojso;
 }
 
 /* Add Stock panel */

@@ -1,4 +1,4 @@
-here I make a change and create a conflict
+here I create a conflict
 ====
 
 test repository
