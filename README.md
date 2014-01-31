@@ -1,4 +1,4 @@
-make a  merge conflict
+here I make a change and create a conflict
 ====
 
 test repository
